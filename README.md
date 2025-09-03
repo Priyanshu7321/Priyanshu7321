@@ -16,16 +16,17 @@
 
 ---
 
-🌱 **Currently learning:**  
-- Jetpack Compose for modern Android UI
-- Flutter advanced UI and animations
-- Backend with Spring Boot
-- Firebase integration for scalable apps
+💡 **Expertise / What I Know:**  
+- Building modern Android apps with **Java, Kotlin & Jetpack Compose**  
+- Cross-platform development using **Flutter & React Native**  
+- Backend development with **Spring Boot & REST APIs**  
+- Realtime apps using **Firebase, WebRTC & WebSockets**  
+- Databases: **SQLite, Firebase Firestore, MongoDB**  
 
 💬 **Ask me about:**  
-- Android & Cross-Platform App Development
-- Java, Kotlin, Flutter, React Native
-- Clean Architecture & Firebase
+- Android & Cross-Platform App Development  
+- Java, Kotlin, Flutter, React Native  
+- Firebase, Clean Architecture, and modern UI  
 
 ⚡ **Fun fact:** I love turning coffee ☕ into clean, working apps!
 
@@ -42,31 +43,22 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-tanwar&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-tanwar&layout=compact&theme=radical&langs_count=6&hide=html,css,shaderlab" alt="Top Languages" height="165">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-tanwar&theme=radical" alt="Activity Graph" />
 </p>
 
-⚡ **Most used languages:** Java, Kotlin, C++, TypeScript
+⚡ **Most used languages (in projects):** Java, Kotlin, C++, TypeScript
 
 ---
 
-## 🏆 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-tanwar&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Projects
-
-Here are a few highlighted projects I am working on:
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -96,5 +88,3 @@ Here are a few highlighted projects I am working on:
 </p>
 
 ---
-
-⭐️ If you like my work, consider following me and starring ⭐️ my repositories to stay connected!
